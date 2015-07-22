@@ -17,5 +17,5 @@ Colorize (green):
 - lightness: -5
 
 Inkscape
-- threshold: 65
+- pressed opacity: 70.0
 
