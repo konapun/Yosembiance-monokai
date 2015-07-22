@@ -1,0 +1,21 @@
+1b1d1e  f92672  82b414  fd971f  56c2d6  8c54fe  465457  ccccc6
+505354  ff5995  b6e354  feed6c  8cedff  9e6ffe  899ca1  f8f8f2
+
+Colorize (pink):
+- hue: 340
+- saturation: 89
+- lightness: 33
+
+Colorize (blue):
+- hue: 190
+- saturation: 70
+- lightness: 1
+
+Colorize (green):
+- hue: 108
+- saturation: 39
+- lightness: -5
+
+Inkscape
+- threshold: 65
+
