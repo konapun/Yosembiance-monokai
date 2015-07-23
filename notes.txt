@@ -16,6 +16,11 @@ Colorize (green):
 - saturation: 39
 - lightness: -5
 
+Colorize (orange):
+- hue: 24
+- saturation: 100
+- lightness: 44 (try 35)
+
 Inkscape
 - pressed opacity: 70.0
 
